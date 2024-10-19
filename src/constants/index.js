@@ -85,3 +85,5 @@ import {
     "Legal",
     "Site Map",
   ];
+
+  export default navLists
